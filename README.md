@@ -1,5 +1,6 @@
 Convert XML into Java Object
 =====
+This example demonstrate XML reading using file object or String Reader object
 
 **Program output **
 
